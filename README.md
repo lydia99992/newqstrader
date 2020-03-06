@@ -1,0 +1,2 @@
+# newqstrader
+trading 
